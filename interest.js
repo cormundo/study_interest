@@ -32,7 +32,7 @@ var surveyJSON = {
     {
      type: "text",
      name: "question5",
-     title: "Institutional Affiliation (University you study/work at)"
+     title: "Institutional Affiliation (University you study/work at, if applicable)"
     },
     {
      type: "boolean",
